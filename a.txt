@@ -7,3 +7,5 @@ There are several changes to a.txt
 I am the last to speak >:)
 
 you think this is the end?? the fight of the last speaker goes on!!
+
+but wait, we are typing simulteniesly. so who is the winner? VS code or GitHub??
