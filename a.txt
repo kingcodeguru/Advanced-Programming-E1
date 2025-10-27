@@ -1,1 +1,1 @@
-This is some random text for the a.txt file
+I have changed the text that is in a.txt
