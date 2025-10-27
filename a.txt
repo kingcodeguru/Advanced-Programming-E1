@@ -3,4 +3,5 @@ I am evil >:)
 I am changing a.txt file while another branch is working on it
 There are several changes to a.txt
 
+1+1=2
 I am the last to speak >:)
