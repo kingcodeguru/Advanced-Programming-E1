@@ -2,3 +2,5 @@ I promise I change a.txt the last time
 I am evil >:)
 I am changing a.txt file while another branch is working on it
 There are several changes to a.txt
+
+I am the last to speak >:)
