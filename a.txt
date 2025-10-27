@@ -1,1 +1,2 @@
-I have changed the text that is in a.txt
+I am evil >:)
+I am changing a.txt file while another branch is working on it
